@@ -146,9 +146,9 @@ pip install -r requirements.txt
 
 ## 📃 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License].
 
 ---
 
-> Developed by Mohammed — aspiring Data Scientist  
+> Developed by Mohammed Omer — aspiring Data Scientist
 > [LinkedIn](https://www.linkedin.com/in/mohd-omer) | [GitHub](https://github.com/Cod3Hack3r)
